@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Random Joke App</string>
+    <string name="loading">Loading…</string>
+    <string name="jokes_tab">Jokes</string>
+    <string name="info_tab">Info</string>
+    <string name="app_info">This is an assignment for Moblie Programming. Application uses https://api.freeapi.app/api/v1/public/randomjokes/joke/random.
+        Developed by Xuanyu Liu .</string>
+    <string name="get_random_joke">Get Random Joke</string>
+    <string name="top_app_bar_title">Random Joke App</string>
+    <string name="fetch_joke_error">Failed to fetch joke: %s</string>
+    <string name="route_main">main</string>
+    <string name="route_info">info</string>
+    <string name="daily_joke_title">Daily Joke</string>
+    <string name="app_info_title">App Information</string>
+</resources>
